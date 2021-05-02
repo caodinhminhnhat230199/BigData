@@ -11,4 +11,4 @@ Tổng quan về môn học :
 
 - Machine Learning trên môi trường PySpark
 
-- Hệ thống khuyến nghị sách
+- Hệ thống khuyến nghị âm nhạc
